@@ -1,0 +1,1 @@
+syscall io_out("Hello from Voxel!\n");
